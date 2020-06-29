@@ -5,3 +5,4 @@ from .models import Genere, Movie
 
 admin.site.register(Genere)
 admin.site.register(Movie)
+admin.site.register(Movie)
