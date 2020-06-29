@@ -9,7 +9,7 @@ pylint = "*"
 
 [packages]
 requests = "*"
-django = "==2.1"
+django = "==2.2.13"
 
 [requires]
 python_version = "3.8"
